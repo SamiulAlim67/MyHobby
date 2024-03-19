@@ -21,17 +21,17 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p><em>Cricket is not just a game for me; it's my passion.</em> I have been playing cricket since childhood and enjoy every aspect of it - from batting to bowling to fielding.</p>
+            <p>Hi.My name is Samiul Alim Sami.Im 23 years old.im a student of Ulsan college.Cricket is not just a game for me; it's my passion. I have been playing cricket since childhood and enjoy every aspect of it - from batting to bowling to fielding.</p>
         </section>
 
         <section>
             <h2>Gallery</h2>
             <figure>
-                <img src="cricket_image1.jpg" alt="Cricket Image 1">
+                <img src="https://www-static-blogs.operacdn.com/india/wp-content/uploads/sites/8/2015/06/Friends-enjoying-cricket2.png" alt="Cricket Image 1">
                 <figcaption>Enjoying a cricket match with friends.</figcaption>
             </figure>
             <figure>
-                <img src="cricket_image2.jpg" alt="Cricket Image 2">
+                <img src="https://im.rediff.com/cricket/2015/oct/27sachin1.jpg" alt="Cricket Image 2">
                 <figcaption>Practicing batting techniques at the nets.</figcaption>
             </figure>
         </section>
